@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversionPrincipl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factories", "DesignPatterns\Factories\Factories.csproj", "{ADEEF9B5-8F33-4834-AECA-9BAA91FDF557}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "DesignPatterns\Prototype\Prototype.csproj", "{C477DFFE-D4A6-420B-A00A-7C0128368959}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{ADEEF9B5-8F33-4834-AECA-9BAA91FDF557}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADEEF9B5-8F33-4834-AECA-9BAA91FDF557}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADEEF9B5-8F33-4834-AECA-9BAA91FDF557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C477DFFE-D4A6-420B-A00A-7C0128368959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C477DFFE-D4A6-420B-A00A-7C0128368959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C477DFFE-D4A6-420B-A00A-7C0128368959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C477DFFE-D4A6-420B-A00A-7C0128368959}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
