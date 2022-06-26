@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "DesignPatterns
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "DesignPatterns\Singleton\Singleton.csproj", "{4C9D9A58-FF05-4DA9-87DC-09C89308FFAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "DesignPatterns\Adapter\Adapter.csproj", "{16FAD17C-C706-4DCE-94EC-380CA5E2DD71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{4C9D9A58-FF05-4DA9-87DC-09C89308FFAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C9D9A58-FF05-4DA9-87DC-09C89308FFAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C9D9A58-FF05-4DA9-87DC-09C89308FFAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16FAD17C-C706-4DCE-94EC-380CA5E2DD71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16FAD17C-C706-4DCE-94EC-380CA5E2DD71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16FAD17C-C706-4DCE-94EC-380CA5E2DD71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16FAD17C-C706-4DCE-94EC-380CA5E2DD71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
